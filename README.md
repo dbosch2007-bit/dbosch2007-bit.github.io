@@ -30,7 +30,7 @@
   <h1>Play My Game!</h1>
   <p>Tap the banner below to download.</p>
 
-  <a href="https://apps.apple.com/app/idXXXXXXXXX">
+  <a href=(https://apps.apple.com/us/app/instagram/id389801252)>
     <img class="banner" src="(https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi98qmqjbWRAxXCODQIHaxfFdIQh-wKegQIGRAE&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FInstagram&usg=AOvVaw0QgHb6UxrsMu4NOgFjvt9V&opi=89978449)" alt="Download Banner">
   </a>
 
